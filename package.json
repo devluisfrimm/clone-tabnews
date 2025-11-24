@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Projeto para estudo de ponta a ponta, recriando o projeto já existente chamado tabnews.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
