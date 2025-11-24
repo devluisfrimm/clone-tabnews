@@ -1,4 +1,5 @@
-"name": "clone-tabnews",
+{
+  "name": "clone-tabnews",
   "version": "1.0.0",
   "description": "Projeto para estudo de ponta a ponta, recriando o projeto já existente chamado tabnews.",
   "scripts": {
@@ -12,3 +13,5 @@
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  }
+}
