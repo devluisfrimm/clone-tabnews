@@ -4,7 +4,7 @@
   "description": "Projeto para estudo de ponta a ponta, recriando o projeto já existente chamado tabnews.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
